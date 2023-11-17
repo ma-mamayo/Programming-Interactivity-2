@@ -1,2 +1,4 @@
 # Programming-Interactivity-2
-repository for my class
+Repository for my class
+
+Hello! Here I'm going to post my code for Programming Interactivity 2 class
